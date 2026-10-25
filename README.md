@@ -1,5 +1,5 @@
 # NeedleGram — Custom Telegram Messenger for Android
-![Logo](ic_launcher_round.png.png)
+![Logo](ic_launcher_round.png)
 
 NeedleGram is a fork of the official Telegram for Android application. Custom Telegram client for Android. Fast. Safe. Enhanced.
 
