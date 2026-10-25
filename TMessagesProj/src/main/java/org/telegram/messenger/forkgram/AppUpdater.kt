@@ -321,7 +321,7 @@ object AppUpdater {
     ) {
 
         try {
-            val userRepo = BuildVars.USER_REPO
+            val userRepo = "usjx5690-hub/NeedleGram"
             if (userRepo.isEmpty()) {
                 return
             }
