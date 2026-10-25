@@ -1,10 +1,11 @@
 name: Fork Client
 
 on:
-  push:
-    branches:
-      - '**'
-
+  workflow_dispatch:
+    push:
+        branches:
+              - '***'
+            
 jobs:
   linux:
     name: Build
