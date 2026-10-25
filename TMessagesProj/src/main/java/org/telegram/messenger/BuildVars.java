@@ -9,13 +9,13 @@ public class BuildVars {
                         public static boolean NO_SCOPED_STORAGE = false;
                             public static String BUILD_VERSION_STRING = "1.0";
 
-                                // ТВОИ ЛИЧНЫЕ КЛЮЧИ NEEDLEGRAM
-                                    public static int APP_ID = 34443654;
-                                        public static String APP_HASH = "22964145f8fe8e25adcfc050bf4cc205";
+                                // ТВОИ ЛИЧНЫЕ КЛЮЧИ NEEDLEGRAM (ТЕПЕРЬ КАК КОНСТАНТЫ)
+                                    public static final int APP_ID = 34443654;
+                                        public static final String APP_HASH = "22964145f8fe8e25adcfc050bf4cc205";
 
-                                            // СЛУЖЕБНЫЕ ПЕРЕМЕННЫЕ (ВОЗВРАЩАЕМ, ЧТОБЫ НЕ БЫЛО ОШИБОК)
-                                                public static int USER_ID_OWNER = 0;
-                                                    public static String USER_REPO = "usjx5690-hub/NeedleGram";
+                                            // АВТОРСТВО И СЛУЖЕБНЫЕ ПЕРЕМЕННЫЕ
+                                                public static final int USER_ID_OWNER = 0;
+                                                    public static final String USER_REPO = "usjx5690-hub/NeedleGram";
                                                         
                                                             public static String SAFETYNET_KEY = "";
                                                                 public static String PLAYSTORE_APP_URL = "";
