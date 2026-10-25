@@ -3,7 +3,7 @@
 
 NeedleGram is a fork of the official Telegram for Android application. Custom Telegram client for Android. Fast. Safe. Enhanced.
 
-[![Github All Releases](https://img.shields.io/github/downloads/YourGitHubUsername/NeedleGram/total.svg)](https://github.com/YourGitHubUsername/NeedleGram/releases)
+[![Github All Releases](https://img.shields.io/github/downloads/YourGitHubUsername/NeedleGram/total.svg)](https://github.com/usjx5690-hub/NeedleGram/releases)
 
 ## Features:
 
