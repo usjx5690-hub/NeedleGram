@@ -1,12 +1,8 @@
-# Fork Client — Unofficial Telegram Messenger for Android
-![image](https://raw.githubusercontent.com/Forkgram/TelegramAndroid/58938f6bbe4159b90c38d9b94c9a70d57bedf3e0/TMessagesProj/src/main/res/drawable-xxhdpi/ic_launcher.png)  
-Fork Client is a fork of the official Telegram for Android application.  
-[<img src="https://f-droid.org/badge/get-it-on.png"
-      alt="Get it on F-Droid"
-      height="80">](https://f-droid.org/app/org.forkgram.messenger)
+# NeedleGram — Custom Telegram Messenger for Android
+![image](32549.png)  
+NeedleGram is a fork of the official Telegram for Android application. Custom Telegram client for Android. Fast. Safe. Enhanced.
 
-![Build Status](https://travis-ci.org//Forkgram/TelegramAndroid.svg?branch=dev)
-[![Github All Releases](https://img.shields.io/github/downloads/Forkgram/TelegramAndroid/total.svg)](https://github.com/Forkgram/TelegramAndroid/releases)
+[![Github All Releases](https://img.shields.io/github/downloads/YourGitHubUsername/NeedleGram/total.svg)](https://github.com/YourGitHubUsername/NeedleGram/releases)
 
 ## Features:
 
@@ -50,12 +46,10 @@ Fork Client is a fork of the official Telegram for Android application.
 
 ### Privacy:
 
-Forkgram adds no telemetry, no analytics, no crash-reporting, and no third-party network endpoints on top of upstream Telegram for Android. All traffic goes only to Telegram's official servers.
-
-
+NeedleGram adds no telemetry, no analytics, no crash-reporting, and no third-party network endpoints on top of upstream Telegram for Android. All traffic goes only to Telegram's official servers.
 
 ## Downloads:
-You can download binaries from Releases or from my [Telegram channel Forkgram](https://t.me/forkgram).
+You can download binaries from Releases or from my [Telegram channel NeedleGram](https://t.me/needlegram).
 
 ## Building instructions for Debian 13:
 [BUILDING.md](BUILDING.md)
